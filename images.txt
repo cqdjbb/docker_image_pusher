@@ -1,6 +1,7 @@
 nginx
 mzz2017/v2raya
 cnk3x/xunlei
+bestwu/xware
 #alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
