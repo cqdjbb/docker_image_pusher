@@ -2,8 +2,6 @@ nginx
 mzz2017/v2raya
 cnk3x/xunlei
 portainer/portainer-ce
-mber5/virt-manager
-ghcr.io/home-assistant/home-assistant:stable
 lamfire8390/istoreos
 #alpine
 #支持私库
