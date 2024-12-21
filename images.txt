@@ -4,6 +4,7 @@ cnk3x/xunlei
 portainer/portainer-ce
 mber5/virt-manager
 ghcr.io/home-assistant/home-assistant:stable
+istoros/istoros
 #alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
