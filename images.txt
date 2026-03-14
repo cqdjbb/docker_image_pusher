@@ -1,8 +1,9 @@
 nginx
 mzz2017/v2raya
-cnk3x/xunlei
-portainer/portainer-ce
-linuxserver/jellyfin
+yyxx/openvpn
+#cnk3x/xunlei
+#portainer/portainer-ce
+#linuxserver/jellyfin
 #alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
