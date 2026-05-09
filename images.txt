@@ -1,7 +1,7 @@
 nginx
 mzz2017/v2raya
 yyxx/openvpn
-#cnk3x/xunlei
+cnk3x/xunlei
 #portainer/portainer-ce
 #linuxserver/jellyfin
 #alpine
